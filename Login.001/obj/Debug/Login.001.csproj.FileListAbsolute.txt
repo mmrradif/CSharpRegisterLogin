@@ -39,3 +39,18 @@ E:\CSharp\Projects\Reg\LogInForm\Login.001\Login.001\obj\Debug\Login.001.csproj.
 E:\CSharp\Projects\Reg\LogInForm\Login.001\Login.001\obj\Debug\Login.001.exe
 E:\CSharp\Projects\Reg\LogInForm\Login.001\Login.001\obj\Debug\Login.001.pdb
 E:\CSharp\Projects\Reg\LogInForm\Login.001\Login.001\obj\Debug\Login._001.Message.resources
+G:\Mahbur Projects\C#\Register LogIn Form\Login.001\bin\Debug\Database1.mdf
+G:\Mahbur Projects\C#\Register LogIn Form\Login.001\bin\Debug\Database1_log.ldf
+G:\Mahbur Projects\C#\Register LogIn Form\Login.001\bin\Debug\Login.001.exe.config
+G:\Mahbur Projects\C#\Register LogIn Form\Login.001\bin\Debug\Login.001.exe
+G:\Mahbur Projects\C#\Register LogIn Form\Login.001\bin\Debug\Login.001.pdb
+G:\Mahbur Projects\C#\Register LogIn Form\Login.001\obj\Debug\Login.001.csproj.AssemblyReference.cache
+G:\Mahbur Projects\C#\Register LogIn Form\Login.001\obj\Debug\Login.001.csproj.SuggestedBindingRedirects.cache
+G:\Mahbur Projects\C#\Register LogIn Form\Login.001\obj\Debug\Login._001.Login.resources
+G:\Mahbur Projects\C#\Register LogIn Form\Login.001\obj\Debug\Login._001.Message.resources
+G:\Mahbur Projects\C#\Register LogIn Form\Login.001\obj\Debug\Login._001.Register.resources
+G:\Mahbur Projects\C#\Register LogIn Form\Login.001\obj\Debug\Login._001.Properties.Resources.resources
+G:\Mahbur Projects\C#\Register LogIn Form\Login.001\obj\Debug\Login.001.csproj.GenerateResource.cache
+G:\Mahbur Projects\C#\Register LogIn Form\Login.001\obj\Debug\Login.001.csproj.CoreCompileInputs.cache
+G:\Mahbur Projects\C#\Register LogIn Form\Login.001\obj\Debug\Login.001.exe
+G:\Mahbur Projects\C#\Register LogIn Form\Login.001\obj\Debug\Login.001.pdb
